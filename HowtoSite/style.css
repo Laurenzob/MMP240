@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous|Pacifico');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+            background-size: cover;
+            background-color: #fef2a5;
+            font-family: 'Pacifico', 'cursive';
+            font-size: 35px;
+            color: #fe405a;
+            text-align: center;
+}
+img{
+    padding: 20px;
+}
+    h1 {
+                text-align: center;
+                border: 10px solid gray;
+                padding: 10px;
+        }
+    p {
+                text-align: center;
+                font-family: fantasy;
+                color: #fe5970;
+                padding: 20px; 
+      }
+    a {
+                color: #feb059;
+                text-decoration: none;
+        }
+    a:hover {
+                color: #65C269;
+                background-color: aqua;
+            }
+    a:active {
+                color:#D9ADD9;
+                text-decoration: line-through;
+            }
+/* Navigation Styles */
+nav{
+    background-color: #72ccfe;
+}
+nav ul{
+    list-style: none;
+}
+nav li{
+        display: inline;
+}
+nav a {
+    display: inline-block;
+    padding: 20px;
+    text-decoration: none;
+    color: #d340fe;
+}
