@@ -29,12 +29,21 @@ body {
         }
 img{
     padding: 20px;
+
 }
     h1 {
                 text-align: center;
                 border: 10px solid gray;
                 padding: 10px;
         }
+    h3 {
+        font-size: 30px;
+        border: 5px solid blue;
+        padding: 5px;
+        background-color: #EFA48B;
+        text-align: center;
+        color: #EA526F;
+    }
     p {
                 text-align: center;
                 font-family: fantasy;
