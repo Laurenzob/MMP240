@@ -32,15 +32,18 @@ img{
 
 }
     h1 {
+
                 text-align: center;
+
                 padding: 10px;
         }
     h3 {
         font-size: 30px;
+       
         padding: 5px;
-        background-color: #B4B8AB;
+        background-color: #464655;
         text-align: center;
-        color: #EA526F;
+        color: #B7B6C1;
     }
     p {
                 text-align: center;
@@ -55,7 +58,7 @@ img{
                 padding: 5px;
         }
     a:hover {
-                color: #65C269;
+                color: #FBF5F3;
                 background-color: aqua;
             }
     a:active {
@@ -65,7 +68,7 @@ img{
             }
     a:visited {
         color: #65C269;
-        background-color: #65C269;
+        background-color: #FBF5F3;
     }
 /* Navigation Styles */
 nav{
